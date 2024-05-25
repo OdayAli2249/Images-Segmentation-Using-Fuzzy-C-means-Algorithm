@@ -23,4 +23,4 @@ The `fuzzy c-mean clustering` is more aligned with human reasoning and logic. Fo
 ![Figure 3](results/fish/result_fish6.jpg)
 - *Figure 3: Segmented image with 6 clusters*
 
-[Ducumentaion](https://drive.google.com/file/d/1E3CZ2qQElXbE3OsOfW5mbrpU9qpVp1Eu/view?usp=sharing) (in Arabic)
+[Documentaion](https://drive.google.com/file/d/1E3CZ2qQElXbE3OsOfW5mbrpU9qpVp1Eu/view?usp=sharing) (in Arabic)
